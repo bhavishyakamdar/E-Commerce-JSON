@@ -2,31 +2,37 @@
   {
     "image": "https://www.freepnglogos.com/uploads/shoes-png/dance-shoes-png-transparent-dance-shoes-images-5.png",
     "name": "Sneakers 1",
+    "id": "1",
     "price": "₹2000"
   },
   {
     "image": "https://freepngimg.com/thumb/categories/627.png",
     "name": "Sneakers 2",
+    "id": "2",
     "price": "₹3000"
   },
 {
     "image": "https://www.pngarts.com/files/2/Shoes-PNG-Free-Download.png",
     "name": "Sneakers 3",
+    "id": "3",
     "price": "₹4000"
   },
 {
     "image": "https://www.freeiconspng.com/thumbs/shoes-png/green-running-shoes-png-24.png",
     "name": "Sneakers 4",
+    "id": "4",
     "price": "₹5000"
   },
   {
     "image": "https://cdn.sanity.io/images/c1chvb1i/production/1ddffe7d47b686958f9d539c5f3664706d2f6a08-1100x776.png",
     "name": "Sneakers 5",
+    "id": "5",
     "price": "₹6000"
   },
    {
     "image": "https://www.pngmart.com/files/21/Adidas-Shoes-PNG-Picture.png",
     "name": "Sneakers 6",
+    "id": "6",
     "price": "₹6500"
   }
 ]
